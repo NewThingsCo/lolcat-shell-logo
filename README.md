@@ -71,6 +71,10 @@ $REPLACEMENT=Content you want to display
 
 These extra variables should be placed somewhere at the beginning of your configuration file.
 
+## Links
+
+* [ASCII Generator](http://www.network-science.de/ascii/)
+
 ## License
 
 [![MIT][mit-badge]](LICENSE.md)
